@@ -1,6 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var mongoDB = 'mongodb://billyxb8611:123456xb@ds249575.mlab.com:49575/local_librarycx';
+var mongoDB = process.env.MONGODB_URI || 'mongodb://billyxb8611:123456xb@ds249575.mlab.com:49575/local_librarycx';
 mongoose.connect(mongoDB, {
   useMongoClient: true
 });

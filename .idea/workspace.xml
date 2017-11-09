@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0396135-d52e-4d00-af04-b180b7dc3ff8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/express-local-library.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/authorController" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/bookController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/bookinstanceController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/genreController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/author.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/book.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/bookinstance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/genre.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/populatedb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/catalog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/author_delete.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/author_detail.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/author_form.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/author_list.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book_detail.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book_form.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book_list.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/bookinstance_detail.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/bookinstance_form.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/bookinstance_list.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/coolUser.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/error.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/genre_detail.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/genre_form.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/genre_list.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layout.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,8 +16,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -64,8 +61,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="147" />
+    <option name="x" value="282" />
+    <option name="y" value="299" />
     <option name="width" value="1575" />
     <option name="height" value="644" />
   </component>
@@ -127,15 +124,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510198241599</updated>
-      <workItem from="1510198243781" duration="260000" />
+      <workItem from="1510198243781" duration="561000" />
     </task>
+    <task id="LOCAL-00001" summary="First version of application moved into github">
+      <created>1510198576898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510198576899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260000" />
+    <option name="totallyTimeSpent" value="561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="147" width="1575" height="644" extended-state="0" />
+    <frame x="282" y="299" width="1575" height="644" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -161,8 +166,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First version of application moved into github" />
+    <option name="LAST_COMMIT_MESSAGE" value="First version of application moved into github" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
